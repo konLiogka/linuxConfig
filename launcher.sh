@@ -3,7 +3,7 @@
 
 declare -A categories
 categories["Messaging"]="discord session-messenger-desktop"
-categories["Browsing"]="floorp firefox"
+categories["Browsing"]="floorp firefox librewolf"
 categories["Graphics"]="krita inkscape libreoffice"
 categories["Music"]="parole ToneLib-Zoom soulseekqt reaper audacity"
 categories["Coding"]="code arduino qtcreator"
