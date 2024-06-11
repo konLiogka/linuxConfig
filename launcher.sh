@@ -7,7 +7,7 @@ categories["Browsing"]="floorp firefox librewolf"
 categories["Graphics"]="kicad krita inkscape libreoffice"
 categories["Music"]="parole ToneLib-Zoom soulseekqt reaper audacity"
 categories["Coding"]="code arduino qtcreator android"
-categories["Tools"]="obs lxappearance localsend virt-manager fdm rustdesk handbrake"
+categories["Tools"]="rofiwal gdu obs lxappearance localsend virt-manager fdm rustdesk handbrake"
 categories["Networking"]="gns3 packettracer wireshark"
 categories["Games"]="steam supertuxkart omori tr1x terraria undertale rainworld hollowknight plagueinc stardew"
 
